@@ -1,0 +1,15 @@
+
+Datos del cliente:
+Nombre: alejadro
+Apellido: perez
+Cedula: 23423
+Dia de consulta: 12
+Tiempo en Resinto: 35
+----------------------------------------
+Datos del cliente:
+Nombre: maria
+Apellido: cardina
+Cedula: 2989
+Dia de consulta: 20
+Tiempo en Resinto: 5
+----------------------------------------
